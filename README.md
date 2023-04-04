@@ -17,3 +17,10 @@ Simple program to gain points on youlikehits.com written in Python..
  * Anti Blocking
  * Auto bonus points collector
  * Around 1-10k points per day
+
+
+# How To Use
+ Change the login infos at the end of the script
+ "# here we start. Fill the line below with your Youlikehits username and your password
+testBOT = YLH("USERNAME", "PASSWORD")
+testBOT.open_link()"
