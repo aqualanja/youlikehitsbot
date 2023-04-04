@@ -20,7 +20,6 @@ Simple program to gain points on youlikehits.com written in Python..
 
 
 # How To Use
- Change the login infos at the end of the script
- "# here we start. Fill the line below with your Youlikehits username and your password
-testBOT = YLH("USERNAME", "PASSWORD")
-testBOT.open_link()"
+ * Change the login infos at the end of the script
+   "testBOT = YLH("USERNAME", "PASSWORD")"
+ * Then python ylhbot.py
