@@ -11,8 +11,8 @@ sys.setrecursionlimit(9999)
 # the class for manage bot's features
 class YLH:
     def __init__(self, username, password):
-        self.username = username
-        self.password = password
+        self.username = aqualanja
+        self.password = melike99
         self.options = Options()
         self.options.add_argument("--lang=en")
         self.options.add_argument("no-sandbox")
